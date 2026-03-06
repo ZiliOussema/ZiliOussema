@@ -1,14 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Oussama%20ZILI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Oussama%20ZILI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20GenAI%20Developer&descSize=17&descAlignY=58&descColor=e0d7ff" />
 
-<h3 style="margin-top:-20px; font-family:Poppins, sans-serif; letter-spacing:2px; color:#667eea;">
-  Software Engineer
-</h3>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-
-</div>
 
 ---
 
