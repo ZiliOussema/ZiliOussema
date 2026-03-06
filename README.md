@@ -6,10 +6,6 @@
   Software Engineer
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&width=900&lines=Crafting+elegant+solutions+to+complex+problems;Obsessed+with+performance+and+scalability;Turning+ideas+into+production-ready+code;Powered+by+coffee+and+curiosity" />
-
-<br><br>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
 </div>
@@ -23,26 +19,24 @@
 <td width="55%">
   
 ```python
-class SoftwareEngineer:
+class OussamaZili:
     def __init__(self):
-        self.name = "Oussama Zili"
-        self.location = "France 🇫🇷"
-        self.role = "Software Engineer"
-        self.languages = [
-            "Python", "Java", 
-            "JavaScript",
-        ]
-        self.passions = [
+        self.name      = "Oussama Zili"
+        self.location  = "France 🇫🇷"
+        self.role      = "Software Engineer"
+        self.languages = ["Python", "Java", "JavaScript"]
+        self.focus     = [
+            "Generative AI & LLMs",
+            "Multi-Agent Systems",
+            "RAG Pipelines",
             "System Architecture",
-            "Algorithm Optimization", 
-            "RAG & NLP",
-            "Clean Code"
         ]
-    
+        self.current   = "Building AI-powered products"
+
     def say_hi(self):
         print("Thanks for dropping by!")
 
-me = SoftwareEngineer()
+me = OussamaZili()
 me.say_hi()
 ```
 
@@ -109,14 +103,31 @@ me.say_hi()
 
 </tr>
 </table>
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+**Gen AI & NLP**
 
-</div>
+![LangChain](https://img.shields.io/badge/LangChain-764ba2?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-764ba2?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-764ba2?style=flat-square&logo=huggingface&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-764ba2?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-764ba2?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-764ba2?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-764ba2?style=flat-square&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-764ba2?style=flat-square&logoColor=white)
+
+<br>
+
 
 ---
 
 <div align="center">
+
+<br>
+
+
+
+</div>
 
 ### 📈 GitHub Stats
 
@@ -151,6 +162,6 @@ me.say_hi()
 
 **✨ "First, solve the problem. Then, write the code." - John Johnson ✨**
 
-Made with 💜 and lots of ☕
+Made with lots of ☕
 
 </div>
